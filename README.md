@@ -5,7 +5,7 @@
     Bài toán này nhằm xây dựng một phần mềm có khả năng nhận dạng 5 món ăn (Táo, 
     chuối, cam, cà chua, dưa hấu). Mục tiêu là tạo ra một hệ thống tự động có khả năng 
     nhận diện các món ăn và xác định vị trí. 
-    Trong đó input là hình ảnh chứa các món ăn như là:  - - - - - 
+    Trong đó input là hình ảnh chứa các món ăn như là: 
       Táo 
       Chuối 
       Cam 
